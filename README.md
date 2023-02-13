@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blueberry
-- 👀 I’m interested in multimeadia and openGl
+- 👀 I’m interested in multimeadia and openGL
 - 🌱 I’m currently learning openGL and multimedia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
